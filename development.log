@@ -1,0 +1,86 @@
+2024-01-27 16:37:01,174 - INFO - Creating engine
+2024-01-27 16:37:32,494 - INFO - Creating engine
+2024-01-27 16:37:32,683 - INFO - Creating table.
+2024-01-27 16:38:07,579 - INFO - Creating engine
+2024-01-27 16:38:07,610 - INFO - Ingesting data.
+2024-01-27 16:39:13,547 - INFO - Creating engine
+2024-01-27 16:39:13,576 - INFO - Ingesting data.
+2024-01-27 16:39:13,578 - INFO - Creating table.
+2024-01-27 16:39:36,614 - INFO - Creating engine
+2024-01-27 16:39:36,634 - INFO - Ingesting data.
+2024-01-27 16:39:36,636 - INFO - Creating table.
+2024-01-27 16:40:00,443 - INFO - Creating engine
+2024-01-27 16:40:00,481 - INFO - Ingesting data.
+2024-01-27 16:40:00,484 - INFO - Creating table.
+2024-01-27 16:41:33,475 - INFO - Creating engine
+2024-01-27 16:41:33,509 - INFO - Ingesting data.
+2024-01-27 16:41:33,591 - INFO - Creating table.
+2024-01-27 16:41:33,727 - INFO - Importing chunk: 1
+2024-01-27 16:42:49,531 - INFO - Creating engine
+2024-01-27 16:42:49,560 - INFO - Ingesting data.
+2024-01-27 16:42:49,649 - INFO - Creating table.
+2024-01-27 16:42:49,884 - INFO - Importing chunk: 1
+2024-01-27 16:42:56,126 - INFO - Importing chunk took 6.24 seconds.
+2024-01-27 16:42:56,126 - INFO - Importing chunk: 2
+2024-01-27 16:43:02,231 - INFO - Importing chunk took 6.11 seconds.
+2024-01-27 16:43:02,231 - INFO - Importing chunk: 3
+2024-01-27 16:43:08,403 - INFO - Importing chunk took 6.17 seconds.
+2024-01-27 16:43:08,403 - INFO - Importing chunk: 4
+2024-01-27 16:43:14,546 - INFO - Importing chunk took 6.14 seconds.
+2024-01-27 16:43:14,546 - INFO - Importing chunk: 5
+2024-01-27 16:43:20,663 - INFO - Importing chunk took 6.12 seconds.
+2024-01-27 16:43:20,663 - INFO - Importing chunk: 6
+2024-01-27 16:43:26,821 - INFO - Importing chunk took 6.16 seconds.
+2024-01-27 16:43:26,821 - INFO - Importing chunk: 7
+2024-01-27 16:43:32,809 - INFO - Importing chunk took 5.99 seconds.
+2024-01-27 16:43:32,809 - INFO - Importing chunk: 8
+2024-01-27 16:43:37,907 - INFO - Importing chunk took 5.1 seconds.
+2024-01-27 16:43:37,907 - INFO - Importing chunk: 9
+2024-01-27 16:43:37,908 - INFO - Importing completed
+2024-01-27 16:43:37,908 - INFO - Job completed
+2024-01-27 17:02:10,537 - INFO - Creating engine
+2024-01-27 17:02:10,580 - INFO - Ingesting data.
+2024-01-27 17:02:10,658 - INFO - Creating table.
+2024-01-27 17:02:10,892 - INFO - Importing chunk: 1
+2024-01-27 17:02:17,586 - INFO - Importing chunk took 6.69 seconds.
+2024-01-27 17:02:17,586 - INFO - Importing chunk: 2
+2024-01-27 17:02:24,608 - INFO - Importing chunk took 7.02 seconds.
+2024-01-27 17:02:24,608 - INFO - Importing chunk: 3
+2024-01-27 17:02:31,353 - INFO - Importing chunk took 6.74 seconds.
+2024-01-27 17:02:31,354 - INFO - Importing chunk: 4
+2024-01-27 17:02:38,110 - INFO - Importing chunk took 6.76 seconds.
+2024-01-27 17:02:38,111 - INFO - Importing chunk: 5
+2024-01-27 17:02:44,799 - INFO - Importing chunk took 6.69 seconds.
+2024-01-27 17:02:44,799 - INFO - Importing chunk: 6
+2024-01-27 17:02:51,791 - INFO - Importing chunk took 6.99 seconds.
+2024-01-27 17:02:51,791 - INFO - Importing chunk: 7
+2024-01-27 17:02:58,436 - INFO - Importing chunk took 6.64 seconds.
+2024-01-27 17:02:58,436 - INFO - Importing chunk: 8
+2024-01-27 17:03:03,585 - INFO - Importing chunk took 5.15 seconds.
+2024-01-27 17:03:03,585 - INFO - Importing chunk: 9
+2024-01-27 17:03:03,585 - INFO - Importing completed
+2024-01-27 17:03:03,585 - INFO - Job completed
+2024-01-27 17:04:52,448 - INFO - Creating engine
+2024-01-27 17:04:52,481 - INFO - Ingesting data.
+2024-01-27 17:04:52,554 - INFO - Creating table.
+2024-01-27 17:04:52,777 - INFO - Importing chunk: 1
+2024-01-27 17:04:58,850 - INFO - Importing chunk took 6.07 seconds.
+2024-01-27 17:04:58,850 - INFO - Importing chunk: 2
+2024-01-27 17:05:05,712 - INFO - Importing chunk took 6.86 seconds.
+2024-01-27 17:05:05,713 - INFO - Importing chunk: 3
+2024-01-27 17:05:13,089 - INFO - Importing chunk took 7.38 seconds.
+2024-01-27 17:05:13,089 - INFO - Importing chunk: 4
+2024-01-27 17:05:27,265 - INFO - Importing chunk took 14.18 seconds.
+2024-01-27 17:05:27,265 - INFO - Importing chunk: 5
+2024-01-27 17:05:37,469 - INFO - Importing chunk took 10.2 seconds.
+2024-01-27 17:05:37,469 - INFO - Importing chunk: 6
+2024-01-27 17:05:47,114 - INFO - Importing chunk took 9.64 seconds.
+2024-01-27 17:05:47,114 - INFO - Importing chunk: 7
+2024-01-27 17:05:54,491 - INFO - Importing chunk took 7.38 seconds.
+2024-01-27 17:05:54,491 - INFO - Importing chunk: 8
+2024-01-27 17:06:01,669 - INFO - Importing chunk took 7.18 seconds.
+2024-01-27 17:06:01,669 - INFO - Importing chunk: 9
+2024-01-27 17:06:08,363 - INFO - Importing chunk took 6.69 seconds.
+2024-01-27 17:06:08,363 - INFO - Importing chunk: 10
+2024-01-27 17:06:08,363 - INFO - Importing completed
+2024-01-27 17:06:08,363 - INFO - Job completed
